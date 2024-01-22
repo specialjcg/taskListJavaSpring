@@ -1,0 +1,12 @@
+*.iml
+.idea
+.settings
+.classpath
+.project
+.DS_Store
+target
+.gradletasknamecache
+build
+.gradle
+*.log
+z
